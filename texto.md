@@ -18,4 +18,4 @@ git commit -m "mensaje"
 --Para ver todos los commit
 git log
 
-a
+nuevo texto
